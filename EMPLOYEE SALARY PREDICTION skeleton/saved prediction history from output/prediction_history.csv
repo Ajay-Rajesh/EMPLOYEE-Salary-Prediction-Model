@@ -1,0 +1,8 @@
+36,Masters,Self-emp-not-inc,Machine-op-inspct,Never-married,Not-in-family,Black,Male,38,India,0,0,24000,23,<=50K,78.92%
+36,11th,Self-emp-not-inc,Craft-repair,Never-married,Not-in-family,Black,Male,38,India,0,0,24000,13,<=50K,92.74%
+36,11th,Private,Sales,Never-married,Not-in-family,Black,Female,23,India,0,0,24000,7,<=50K,98.98%
+36,11th,Private,Sales,Divorced,Not-in-family,Black,Female,13,United-States,0,0,24000,7,<=50K,99.3%
+18,9th,Private,Machine-op-inspct,Never-married,Own-child,Black,Female,10,Mexico,0,0,10000,5,<=50K,99.66%
+16,9th,Private,Machine-op-inspct,Never-married,Own-child,Black,Female,10,Mexico,0,0,10000,1,<=50K,99.66%
+36,Masters,Private,Machine-op-inspct,Never-married,Own-child,Black,Female,10,United-States,0,0,34000,13,<=50K,99.14%
+52,Masters,Self-emp-not-inc,Sales,Married-civ-spouse,Husband,White,Male,40,United-States,0,0,34000,13,>50K,52.6%
